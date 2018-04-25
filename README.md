@@ -3,7 +3,7 @@ Blade Symphony
  
 ## What's this for?
  
-This repo is meant to be used as an [issue tracker (clicky clicky)](https://github.com/punyhumangames/BladeSymphony/issues) to report bugs or request features for Blade Symphony in any version after and including the Harmonic Prelude update.
+This repo is meant to be used as an [issue tracker (clicky clicky)](https://github.com/punyhumangames/BladeSymphony/issues) to report bugs or request minor features for Blade Symphony in any version after and including the Harmonious Prelude update.
 
 ## Reporting Bugs
 
